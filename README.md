@@ -1,9 +1,7 @@
 QR Menu Mobile
 
 ![Image alt](https://github.com/Adioos/el-menu/blob/46f4ca6b600622e083435d2c2c2c88e5d0695fa1/1.png)
-![Image alt](https://github.com/Adioos/el-menu/blob/46f4ca6b600622e083435d2c2c2c88e5d0695fa1/2.png)
-![Image alt](https://github.com/Adioos/el-menu/blob/46f4ca6b600622e083435d2c2c2c88e5d0695fa1/3.png)
-![Image alt](https://github.com/Adioos/el-menu/blob/46f4ca6b600622e083435d2c2c2c88e5d0695fa1/4.png)
+
 <br>
 Get started: <br>
 1)composer install <br>
