@@ -1,6 +1,6 @@
 QR Menu Mobile
 
-![Image alt](https://github.com/Adioos/el-menu/blob/46f4ca6b600622e083435d2c2c2c88e5d0695fa1/1.png)
+![Image alt](https://github.com/Adioos/el-menu/blob/4f9b3bf4948e1018dacf1760c426f26704eb4666/1.png)
 
 <br>
 Get started: <br>
